@@ -1,7 +1,13 @@
+
+
+
 <h1>College Majors Overview</h1> 
   <h3>Sourced from :(https://www.census.gov/programs-surveys/acs/data/pums.html_)</h3>
+    College majors broken down by category, highest earnings and gender. 
 
-  College majors broken down by category, highest earnings and gender. 
+  
+  <h3>Practice replica project. Importing libraries, practicing importing csv, displaying tables. Organizing information and visualizing different plots. </h3> <h4>Credit to David Robinson [https://github.com/dgrtwo]</h4>
+  
 
 <h2>Main questions asked:</h2> 
 
